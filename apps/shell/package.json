@@ -1,5 +1,5 @@
 {
-  "name": "@hli-ds/shell",
+  "name": "@hwtest/shell",
   "version": "1.0.0",
   "scripts": {
     "build": "webpack --mode production",

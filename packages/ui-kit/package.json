@@ -1,5 +1,5 @@
 {
-  "name": "@hli-ds/ui-kit",
+  "name": "@hwtest/ui-kit",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -34,6 +34,7 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "sass": "^1.75.0",
     "typescript": "^5.2.2",
     "vite": "^5.2.0",
     "vite-plugin-dts": "^3.9.0"

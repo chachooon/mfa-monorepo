@@ -55,7 +55,7 @@ module.exports = (_, argv) => ({
           singleton: true,
           requiredVersion: deps["react-dom"],
         },
-        "@hli-ds/ui-kit": {
+        "@hwtest/ui-kit": {
           singleton: true,
         },
       },
